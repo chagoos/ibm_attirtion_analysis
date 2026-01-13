@@ -8,8 +8,6 @@ This project analyzes the IBM HR Employee Attrition dataset and builds predictiv
 - Multiple models are compared using **Stratified K-Fold cross-validation**, then tuned using **GridSearchCV**.
 - The final model is evaluated once on a **holdout test set** and interpreted with **permutation importance** (and coefficients if logistic regression is selected).
 
-> Note: Exact metric values will appear in the notebook output after you run it (they depend on random split + tuning).
-
 ## Project structure
 ```
 .
