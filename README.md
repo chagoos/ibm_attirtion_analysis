@@ -1,4 +1,4 @@
-# IBM HR Analytics — Employee Attrition (Capstone)
+# IBM HR Analytics — Employee Attrition 
 
 ## Summary (what this project does)
 This project analyzes the IBM HR Employee Attrition dataset and builds predictive models to estimate whether an employee is likely to leave the company (**Attrition = Yes**). The intent is to help HR teams prioritize *proactive* retention actions (career development conversations, manager support, workload balancing, compensation review, etc.).
