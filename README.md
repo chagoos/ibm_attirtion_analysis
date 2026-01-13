@@ -39,5 +39,5 @@ The notebook uses common Python ML libraries:
 - Cross-validated model comparison (LogReg, RandomForest, HistGradientBoosting)
 - Hyperparameter tuning with GridSearchCV
 - Holdout test evaluation (confusion matrix, ROC curve, PR curve)
-- Model interpretation (permutation importance; coefficients if applicable)
-- Recommendations and next steps (in plain language)
+- Model interpretation 
+- Recommendations and next steps 
